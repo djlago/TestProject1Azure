@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="14.0">
+	<children>
+		<child name="ShopApp" key="{1CCFEA97-235F-45E8-9FE5-94C6B1DD9D1A}" path="ShopApp.tcKDTest" />
+		<child name="LogIn" key="{900F3327-A894-495F-AC6C-710ADAD0F95E}" path="LogIn.tcKDTest" />
+	</children>
+</Root>

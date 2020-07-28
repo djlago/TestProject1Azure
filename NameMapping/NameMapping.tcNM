@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{E26DEB64-E9C2-40D6-B674-8ACDB7E0034A}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{0D752013-FC9C-4978-9474-4DE0D51C0246}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageShop" Key="{D198F976-7C94-4261-BA47-F74415737BE0}">
+								<Image FileName="-339257319" Left="0" Top="154" Right="2560" Bottom="1381" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://services.smartbear.com/samples/testcomplete14/smartstore" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textboxInstasearch" Key="{4664F598-7D27-4A97-9AC0-5A5E3BBF4E54}" ExtendedFind="True">
+										<Image FileName="-1095282005" Left="821" Top="256" Right="1637" Bottom="320" />
+										<TypeInfo Item0="{1108B58C-DE9F-4CDF-B272-2E365A5D9AC3}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Textbox" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="instasearch" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="link" Key="{41D46943-B58C-45E2-9DCC-39016071A9C8}" ExtendedFind="True">
+										<Image FileName="-1125743687" Left="452" Top="396" Right="1635" Bottom="480" />
+										<TypeInfo Item0="{F8E27E66-CC08-48F5-8501-64E6E4472B49}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Link" />
+											</Property>
+											<Property Name="contentText">
+												<Value Value="53006F0063006300650072000A0046006F006F007400620061006C006C000A0047005200450041005400200054004F005500430048002E002000480049004700480020005600490053004900420049004C004900540059002E00" Type="7" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="textboxUsername" Key="{A12BBD5A-01EE-4F31-AABB-110E1CD17625}" ExtendedFind="True">
+										<Image FileName="-587568692" Left="1506" Top="775" Right="2027" Bottom="851" />
+										<TypeInfo Item0="{1108B58C-DE9F-4CDF-B272-2E365A5D9AC3}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Textbox" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="Username" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{BD3836C1-470C-44E3-BF3C-7C4869483B78}" ExtendedFind="True">
+										<Image FileName="798514172" Left="1506" Top="875" Right="2027" Bottom="951" />
+										<TypeInfo Item0="{1108B58C-DE9F-4CDF-B272-2E365A5D9AC3}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="PasswordBox" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="Password" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="buttonLogIn" Key="{9B0AF92F-AF16-4ADF-8E20-A24215B726A0}" ExtendedFind="True">
+										<Image FileName="-748600999" Left="1506" Top="1030" Right="2027" Bottom="1106" />
+										<TypeInfo Item0="{AC2F201D-CBE7-46C8-97EA-C29C07DAF657}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="contentText">
+												<Value Value="Log in" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="link2" Key="{E76D9403-36F9-4418-B597-4920D5F3C5B1}" ExtendedFind="True">
+										<Image FileName="1176318434" Left="1990" Top="154" Right="2101" Bottom="217" />
+										<TypeInfo Item0="{B8E888A3-A8CE-4B62-92E8-641B4DB18553}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Link" />
+											</Property>
+											<Property Name="contentText">
+												<Value Value="sb1" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="header" Key="{E0794A24-CEA1-49A3-ACF5-0A83AF05C818}" ExtendedFind="True">
+										<Image FileName="-612641536" Left="0" Top="154" Right="2536" Bottom="448" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Header" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="header" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{B87328D2-9097-4820-8EC6-FC65A609F2AE}">
+												<Image FileName="-612641536" Left="0" Top="154" Right="2536" Bottom="219" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="nav" Key="{1A9001B8-4D29-41FB-8CF2-804B9FA71FA8}" ExtendedFind="True">
+														<Image FileName="-612641536" Left="436" Top="154" Right="2101" Bottom="217" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Nav" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="link" Key="{77ED9A35-ACCA-4DBB-969E-6AA12C69866E}" ExtendedFind="True">
+																<Image FileName="-612641536" Left="1985" Top="154" Right="2100" Bottom="217" />
+																<TypeInfo Item0="{F8E27E66-CC08-48F5-8501-64E6E4472B49}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value Value="Link" />
+																	</Property>
+																	<Property Name="contentText">
+																		<Value Value="Log in" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="link3" Key="{F29B2677-E358-479D-AACB-B76A4689CE05}" ExtendedFind="True">
+										<Image FileName="-1422774826" Left="1861" Top="424" Right="2098" Bottom="479" />
+										<TypeInfo Item0="{F8E27E66-CC08-48F5-8501-64E6E4472B49}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Link" />
+											</Property>
+											<Property Name="contentText">
+												<Value Value="Log out" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageNikeStrikeFootball" Key="{49C9513D-2DF5-42EC-B177-0AD160A06E97}">
+								<Image FileName="-339257319" Left="0" Top="154" Right="2560" Bottom="1381" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://services.smartbear.com/samples/TestComplete14/smartstore/nike-strike-football" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelPage" Key="{10F97AF4-444A-4E2F-906B-D106325C2786}" ExtendedFind="True">
+										<Image FileName="1552134637" Left="0" Top="154" Right="2536" Bottom="3749" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="page" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{F9F0081F-60AB-46D3-B4B5-46BD67145CDC}" ExtendedFind="True">
+												<Image FileName="-1682935927" Left="-2049" Top="154" Right="3073" Bottom="1381" />
+												<TypeInfo Item0="{F8E27E66-CC08-48F5-8501-64E6E4472B49}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value Value="0" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="buttonAddToCart" Key="{0C14CAE5-A612-4C72-B8F2-0FECA0C9D511}" ExtendedFind="True">
+												<Image FileName="1552134637" Left="1635" Top="1043" Right="2078" Bottom="1119" />
+												<TypeInfo Item0="{3811F884-F3CE-41F0-AF49-CCE01916BF1A}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Link" />
+													</Property>
+													<Property Name="contentText">
+														<Value Value="Add to cart" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="asideOffcanvasCart" Key="{FBD272B7-2B7D-4C4F-A1BE-1204561B345B}" ExtendedFind="True">
+										<Image FileName="1457321555" Left="1841" Top="154" Right="2561" Bottom="1381" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Aside" />
+											</Property>
+											<Property Name="idStr">
+												<Value Value="offcanvas-cart" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="link" Key="{D1B88C01-1286-484E-8639-BE9051346166}" ExtendedFind="True">
+												<Image FileName="1457321555" Left="2487" Top="529" Right="2543" Bottom="585" />
+												<TypeInfo Item0="{3811F884-F3CE-41F0-AF49-CCE01916BF1A}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Link" />
+													</Property>
+													<Property Name="href">
+														<Value Value="https://services.smartbear.com/samples/TestComplete14/smartstore/nike-strike-football#" />
+													</Property>
+													<Property Name="title">
+														<Value Value="Remove" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{097A1F07-EAAE-4069-B093-9285E533CA67}">
+								<Image FileName="992873187" Left="-11" Top="-11" Right="2571" Bottom="1391" />
+								<TypeInfo Item0="{36D16811-1721-4AE8-809D-FB6AAB5A125D}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{0D752013-FC9C-4978-9474-4DE0D51C0246}">
+			<Child Name="pageShop" Owner="{D198F976-7C94-4261-BA47-F74415737BE0}">
+				<Child Name="textboxInstasearch" Owner="{4664F598-7D27-4A97-9AC0-5A5E3BBF4E54}" />
+				<Child Name="link" Owner="{41D46943-B58C-45E2-9DCC-39016071A9C8}" />
+				<Child Name="textboxUsername" Owner="{A12BBD5A-01EE-4F31-AABB-110E1CD17625}" />
+				<Child Name="passwordboxPassword" Owner="{BD3836C1-470C-44E3-BF3C-7C4869483B78}" />
+				<Child Name="buttonLogIn" Owner="{9B0AF92F-AF16-4ADF-8E20-A24215B726A0}" />
+				<Child Name="link2" Owner="{E76D9403-36F9-4418-B597-4920D5F3C5B1}" />
+				<Child Name="header" Owner="{E0794A24-CEA1-49A3-ACF5-0A83AF05C818}">
+					<Child Name="nav" Owner="{1A9001B8-4D29-41FB-8CF2-804B9FA71FA8}">
+						<Child Name="link" Owner="{77ED9A35-ACCA-4DBB-969E-6AA12C69866E}" />
+					</Child>
+				</Child>
+				<Child Name="link3" Owner="{F29B2677-E358-479D-AACB-B76A4689CE05}" />
+			</Child>
+			<Child Name="pageNikeStrikeFootball" Owner="{49C9513D-2DF5-42EC-B177-0AD160A06E97}">
+				<Child Name="panel" Owner="{F9F0081F-60AB-46D3-B4B5-46BD67145CDC}" />
+				<Child Name="buttonAddToCart" Owner="{0C14CAE5-A612-4C72-B8F2-0FECA0C9D511}" />
+				<Child Name="asideOffcanvasCart" Owner="{FBD272B7-2B7D-4C4F-A1BE-1204561B345B}">
+					<Child Name="link" Owner="{D1B88C01-1286-484E-8639-BE9051346166}" />
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow" Owner="{097A1F07-EAAE-4069-B093-9285E533CA67}" />
+		</Child>
+	</LogicalNodes>
+</Root>
