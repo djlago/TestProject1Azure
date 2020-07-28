@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{F7663213-7EB3-458A-9849-DBA7D288B884}">
+	<children>
+		<child name="TestProject1Azure" key="{8672BFCE-98ED-4864-9C44-2D444BFD54DA}" path="TestProject1Azure\TestProject1Azure.mds" />
+	</children>
+	<testItems key="{6087D626-601A-4018-BA44-80479A6E68BF}">
+		<children>
+			<testItem key="{8672BFCE-98ED-4864-9C44-2D444BFD54DA}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{FC3F9825-40A7-48F2-B357-7B8C7BF21F97}" />
+	<analysis key="{E7324B4E-2191-4868-A801-9F169EFE5D9F}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="False" />
+	</extender>
+</Root>
